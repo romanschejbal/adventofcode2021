@@ -7,3 +7,5 @@ I'll try and take advantage of those Rust programming patterns as I see fit duri
 
 1. [sonar-sweep](./sonar-sweep/) - extension trait that adds a `moving_sum` method to an iterator
 1. [dive](./dive/) - `FromStr` trait example
+1. [binary-diagnostic](./binary-diagnostic/) - todo!()
+1. [giant-squid](./giant-squid/) - again `FromStr` + `Display` trait implemntations
